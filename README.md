@@ -1,2 +1,2 @@
 # git_test
-My first GitHub rep!!
+My first GitHub repo!!
